@@ -26,4 +26,9 @@ public class MemberServiceTest {
 		// then
 		assertThat(result).isEqualTo("yo");
 	}
+
+	@Test
+	void indentTest() {
+		System.out.println("test");
+	}
 }

@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 public class MemberService {
 
 	public String sayYo() {
-
 		return "yo";
 	}
 }
